@@ -1,83 +1,65 @@
-
 <div align="center">
 
-# ZM
+<p><strong><font size="6">ZM</font></strong></p>
 
-### Full-Stack & AI Engineer · Technical Product Leader
+<strong>FULL-STACK & AI ENGINEER · TECHNICAL PRODUCT LEADER</strong>
 
-Building intelligent products, scalable platforms, and reliable AI systems.
+<p>Building reliable AI systems, scalable platforms, and products that solve real problems.</p>
 
-**Software Engineering · AI/ML · Technical Product Management**
+<sub>NEW YORK CITY</sub>
 
-📍 New York City
-
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/yakutswe)
-[![Projects](https://img.shields.io/badge/Explore-Repositories-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/yakutswe?tab=repositories)
+<p><a href="https://github.com/yakutswe?tab=repositories">Explore projects ↗</a> &nbsp; · &nbsp; <a href="https://github.com/yakutswe">GitHub activity ↗</a></p>
 
 </div>
 
-## About
+### About
 
-I'm a full-stack engineer and technical product leader building AI-powered software, enterprise systems, and data-driven platforms.
+I’m a full-stack engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software. I bring together an M.S. in Computer Science, an MBA, and hands-on experience taking products from requirements and architecture through implementation and validation. I keep learning, building, and improving.
 
-With a background in Computer Science and an MBA, I work across product discovery, system architecture, engineering, and delivery. I enjoy solving complex problems, building reliable software, and continuously learning.
+### Technical Expertise
 
-## Technical Expertise
+**Languages** &nbsp; `Python` `TypeScript` `JavaScript` `Java` `SQL`
 
-**Languages**
+**Full-stack** &nbsp; `React` `Next.js` `FastAPI` `REST APIs` `Microservices`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+**Data & cloud** &nbsp; `PostgreSQL` `PostGIS` `Redis` `AWS` `GCP` `Docker`
 
-**Full-Stack Engineering**
+**AI & product** &nbsp; `LLMs` `RAG` `AI Agents` `Evaluation` `Product Discovery` `System Design`
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### Featured Engineering Projects
 
-**Cloud, AI & Infrastructure**
+**[ZeeLM ↗](https://github.com/yakutswe/ZeeLM)** &nbsp; · &nbsp; **Local-first AI workspace**  
+Conversational AI, engineering tools, and product workflows.  
+<sub>TypeScript · Next.js · Ollama · Qwen3</sub>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Engineering-2563EB?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_&_Evaluation-2563EB?style=flat-square)
+**[AgentOps Foundry ↗](https://github.com/yakutswe/agentops-foundry)** &nbsp; · &nbsp; **AI agent operations**  
+Agent orchestration, evaluation, and governance workflows.  
+<sub>TypeScript · AI agents · Evaluation</sub>
 
-## Featured Engineering Projects
+**[CaseFlow Platform ↗](https://github.com/yakutswe/caseflow-platform)** &nbsp; · &nbsp; **Legal data engineering**  
+Case ingestion, validation, metadata, and data-quality workflows.  
+<sub>Python · FastAPI · PostgreSQL</sub>
 
-| Project | Engineering Focus | Core Technologies |
-|:---|:---|:---|
-| **[ZeeLM](https://github.com/yakutswe/ZeeLM)** | Local-first AI workspace and LLM-powered workflows | TypeScript · Next.js · Ollama |
-| **[AgentOps Foundry](https://github.com/yakutswe/agentops-foundry)** | AI agent orchestration, evaluation, and governance | TypeScript · AI Agents |
-| **[CaseFlow Platform](https://github.com/yakutswe/caseflow-platform)** | Legal data pipelines, validation, and search | Python · FastAPI · PostgreSQL |
-| **[Client Implementation Copilot](https://github.com/yakutswe/client-implementation-copilot)** | Schema validation and integration readiness | Python · FastAPI |
-| **[Capability OS](https://github.com/yakutswe/capability-os)** | AI workflow orchestration and governance | TypeScript |
-| **[MissionLens](https://github.com/yakutswe/missionlens)** | Geospatial reporting and mission workflows | Python · FastAPI · PostGIS |
+**[Client Implementation Copilot ↗](https://github.com/yakutswe/client-implementation-copilot)** &nbsp; · &nbsp; **Integration readiness**  
+Schema validation, data mapping, and customer onboarding workflows.  
+<sub>Python · FastAPI</sub>
 
-## Currently Building
+**[Capability OS ↗](https://github.com/yakutswe/capability-os)** &nbsp; · &nbsp; **Multi-agent workflows**  
+Orchestration and governance across enterprise workflows.  
+<sub>TypeScript</sub>
 
-**AI Systems & Evaluation**
-Reliable LLM workflows, agent evaluation, and model quality measurement.
+**[MissionLens ↗](https://github.com/yakutswe/missionlens)** &nbsp; · &nbsp; **Geospatial engineering**  
+Location-based reporting and evidence-linked mission workflows.  
+<sub>Python · FastAPI · PostGIS</sub>
 
-**Full-Stack Platforms**
-End-to-end applications, scalable APIs, and production-oriented data architecture.
+### Products in Development
 
-**Product Engineering**
-User-focused workflows, technical product strategy, and measurable outcomes.
+**Zee PM Desktop** &nbsp; · &nbsp; *In development*  
+A modular product-management workspace connecting conversations, priorities, planning, and execution.
 
-## Engineering Activity
+**SignalForge AI** &nbsp; · &nbsp; *Planned / next build*  
+A full-stack AI/ML product focused on evaluating signals, model quality, and product decisions.
 
-I actively develop and maintain projects across AI engineering, full-stack software, and data platforms.
+### Engineering Activity
 
-[Explore my GitHub contributions →](https://github.com/yakutswe)
-
-<div align="center">
-
-**Build thoughtfully · Test thoroughly · Learn continuously**
-
-</div>
+I actively build, test, document, and improve software across AI engineering, full-stack platforms, and data systems. [View recent GitHub contributions ↗](https://github.com/yakutswe).
