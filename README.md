@@ -59,7 +59,3 @@ A modular product-management workspace connecting conversations, priorities, pla
 
 **SignalForge AI** &nbsp; · &nbsp; *Planned / next build*  
 A full-stack AI/ML product focused on evaluating signals, model quality, and product decisions.
-
-### Engineering Activity
-
-I actively build, test, document, and improve software across AI engineering, full-stack platforms, and data systems. [View recent GitHub contributions ↗](https://github.com/yakutswe).
