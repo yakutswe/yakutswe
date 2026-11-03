@@ -14,7 +14,7 @@
 
 ### About
 
-I’m a full-stack engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software. I bring together an M.S. in Computer Science, an MBA, and hands-on experience taking products from requirements and architecture through implementation and validation. I keep learning, building, and improving.
+I’m a full-stack engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software. I bring together an M.S. in Computer Science, an MBA, and a B.S. in Public Administration, with additional coursework at the University of Manchester. I enjoy turning complex technical challenges into practical solutions, from architecture and development to product delivery. I keep learning, building, and improving.
 
 ### Technical Expertise
 
