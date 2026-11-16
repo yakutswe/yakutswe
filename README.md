@@ -16,7 +16,7 @@
 
 I'm a full-stack software engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software, with a growing focus on Forward Deployed Engineering. I bring together an M.S. in Computer Science, an MBA, and a B.S. in Public Administration, along with additional coursework at the University of Manchester.
 
-I enjoy solving complex technical challenges and turning business needs into reliable, practical solutions—from system architecture and AI development to deployment and product delivery. I'm always learning, building, and improving.
+I enjoy solving complex technical challenges and turning business needs into reliable, practical solutions from system architecture and AI development to deployment and product delivery. I'm always learning, building, and improving.
 
 ### Technical Expertise
 
