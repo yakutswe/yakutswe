@@ -2,9 +2,9 @@
 
 <p><strong><font size="6">ZM</font></strong></p>
 
-<strong>FULL-STACK & AI ENGINEER · TECHNICAL PRODUCT LEADER</strong>
+<strong>FULL-STACK ENGINEER · FORWARD DEPLOYED ENGINEERING · TECHNICAL PRODUCT LEADER</strong>
 
-<p>Building reliable AI systems, scalable platforms, and products that solve real problems.</p>
+<p>Building reliable AI systems, scalable platforms, and products that solve real problems. My work spans backend engineering, software architecture, AI agents, cloud infrastructure, and technical product development.</p>
 
 <sub>NEW YORK CITY</sub>
 
@@ -14,7 +14,9 @@
 
 ### About
 
-I’m a full-stack engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software. I bring together an M.S. in Computer Science, an MBA, and a B.S. in Public Administration, with additional coursework at the University of Manchester. I enjoy turning complex technical challenges into practical solutions, from architecture and development to product delivery. I keep learning, building, and improving.
+I'm a full-stack software engineer and technical product leader working across AI, backend systems, cloud infrastructure, and enterprise software, with a growing focus on Forward Deployed Engineering. I bring together an M.S. in Computer Science, an MBA, and a B.S. in Public Administration, along with additional coursework at the University of Manchester.
+
+I enjoy solving complex technical challenges and turning business needs into reliable, practical solutions—from system architecture and AI development to deployment and product delivery. I'm always learning, building, and improving.
 
 ### Technical Expertise
 
